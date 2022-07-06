@@ -1,8 +1,6 @@
 # SV_Intern_Memo
 
 ​	
-
-​	
   
 **1. Study Summary**
 
@@ -13,15 +11,13 @@ Summary of Study Materials
 ​	
 
 ​	
-
-​	
   
 **2. Faster-R-CNN-Tutorial**
 
-Trial and Error of Studying Faster R-CNN, this FOLDER includes Tutorial implementation of Faster R-CNN based on Tensorflow & Pytorch.
- 
-​	
+Trial and Error of Studying Faster R-CNN,
 
+this FOLDER includes Tutorial implementation of Faster R-CNN based on Tensorflow & Pytorch.
+ 
 ​	
 
 ​	
