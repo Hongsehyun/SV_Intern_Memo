@@ -26,6 +26,4 @@ this FOLDER includes Tutorial implementation of Faster R-CNN based on Tensorflow
 
 This FOLDER contains information on the development of the Fast R-CNN Model based on Pytorch.
 
-​	
-
 Reference Link : https://github.com/chenyuntc/simple-faster-rcnn-pytorch
