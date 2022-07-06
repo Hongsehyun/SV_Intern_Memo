@@ -6,7 +6,10 @@
 Summary of Study Materials
   
   ![image](https://user-images.githubusercontent.com/84533279/177496697-5df3631c-d523-42b4-b88d-319e025da226.png)
- 
+​	
+
+​	
+
  
   
 **2. Faster-R-CNN-Tutorial**
