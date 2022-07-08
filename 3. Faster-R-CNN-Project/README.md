@@ -86,11 +86,11 @@ Train/Val Images :: 7481
 
 Test Images :: 7518
 
-
+​	
 
 Class :: 3 types of class(Car, Cyclist, Pedestrian)
 
-
+​	
 
 Ground Truth 정보가 Train/Val Image에 대해서만 존재하는 것에 유의!
 
