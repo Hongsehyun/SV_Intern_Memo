@@ -12,6 +12,7 @@ Epoch :: 14
 Learning Rate :: 0.001
 Batch Size :: 1
 
+![train_log_visualization](https://user-images.githubusercontent.com/84533279/177906225-a9c836ec-2142-48a5-bd71-c1ff08d533eb.JPG)
 
 
 Visdom Window Explanation
