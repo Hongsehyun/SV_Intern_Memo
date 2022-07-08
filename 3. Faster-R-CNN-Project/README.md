@@ -1,27 +1,36 @@
 # Dataset
 
+​		
+
 ​	
 
-**PASCAL VOC 2007 Dataset**
+### **PASCAL VOC 2007 Dataset**
 
 Total Images :: 9963
 Train/Val Images :: 5011
 Test Images :: 4952
 
-Epoch :: 14
-Learning Rate :: 0.001
+
+
+Class :: 20 types of class
 Batch Size :: 1
+
+​	
+
+**Visdom Window Explanation**
 
 ![train_log_visualization](https://user-images.githubusercontent.com/84533279/177906225-a9c836ec-2142-48a5-bd71-c1ff08d533eb.JPG)
 
 
-Visdom Window Explanation
 
------ 최초 1회 실행 -----
+***최초 1회 실행***
+
 [1] Pascal VOC Classes :: PASCAL Dataset의 모든 Class 출력
 
+​	
 
------ 100개의 Image 학습할 때마다 실행(= 50 iteration per 1epoch)  -----
+***100개의 Image 학습할 때마다 실행(= 50 iteration per 1epoch)***
+
 [2] rpn_loc_loss :: Smooth L1 Loss로 계산
 [3] rpn_cls_loss :: CrossEntropy Loss로 계산
 [4] roi_loc_loss :: Smooth L1 Loss로 계산
@@ -41,7 +50,36 @@ Visdom Window Explanation
                                                  가로 X 세로 = 20 X 20 ( Class Label의 갯수 )
 
 
------  매 epoch마다 실행  -----
+
+***매 epoch마다 실행***
+
 [11] test_map :: @mAP -> Model의 전반적인 Accuray를 매 Epoch마다 Plot
 
 [12] Log :: epoch , learning Rate, mAP, 5가지 Loss를 출력하여 매 Epoch마다 Model의 Training 정도를 확인
+
+
+
+
+
+---
+
+
+
+
+
+### KITTI Dataset
+
+Total Images :: 14999
+Train/Val Images :: 7481
+Test Images :: 7518
+
+
+
+Class :: 3 types of class(Car, Cyclist, Pedestrian)
+
+
+
+Ground Truth 정보가 Train/Val Image에 대해서만 존재하는 것에 유의!
+
+
+
