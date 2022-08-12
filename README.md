@@ -6,7 +6,8 @@
 
 Summary of Study Materials
   
-  ![image](https://user-images.githubusercontent.com/84533279/177496697-5df3631c-d523-42b4-b88d-319e025da226.png)
+  ![image](https://user-images.githubusercontent.com/84533279/184269629-dc3f0d01-3eed-430d-afac-bea7275dd7c5.png)
+
   
 ​	
 
